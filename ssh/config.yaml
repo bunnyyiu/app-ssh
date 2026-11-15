@@ -1,7 +1,7 @@
 ---
 name: Advanced SSH & Web Terminal
 version: 19.0.0
-slug: ssh_v19
+slug: ssh
 image: ghcr.io/hassio-addons/ssh/{arch}
 description: A supercharged SSH & Web Terminal access to your Home Assistant instance
 url: https://github.com/hassio-addons/addon-ssh
